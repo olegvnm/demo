@@ -6,7 +6,7 @@
   "geocode_zero": {
     "results": [],
     "status": "ZERO_RESULTS"
-  }
+  },
   "geocode_daily_limit": {
     "results": [],
     "status": "OVER_DAILY_LIMIT"
