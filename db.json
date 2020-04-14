@@ -4,7 +4,6 @@
     "status": "OK"
   },
   "geocode_zero": {
-    "results": [],
     "status": "ZERO_RESULTS"
   },
   "geocode_daily_limit": {
