@@ -10,7 +10,6 @@
     { "id": 3, "body": "some comment", "postId": 1 }
   ],
   "geocode_Ok": {
-    "results": [],
     "status": "OK"
   }
 }
