@@ -1,15 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 },
-    { "id": 3, "body": "some comment", "postId": 1 }
-  ],
-  "geocode_Ok": {
+  "geocode_ok": {
+    "results": [],
     "status": "OK"
+  },
+  "geocode_zero": {
+    "results": [],
+    "status": "ZERO_RESULTS"
+  }
+  "geocode_daily_limit": {
+    "results": [],
+    "status": "OVER_DAILY_LIMIT"
+  },
+  "geocode_query_limit": {
+    "results": [],
+    "status": "OVER_QUERY_LIMIT"
   }
 }
